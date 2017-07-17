@@ -80,9 +80,8 @@ end
 describe "#multiply" do
 
   it "multiplies two numbers"
-
-  it "multiplies several numbers"
   
+  it "multiplies several numbers"
 end
 
 describe "#power" do
